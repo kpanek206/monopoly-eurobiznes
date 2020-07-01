@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="830.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.PlanszaController">
+   <children>
+      <ImageView fitHeight="500.0" fitWidth="698.0" layoutX="93.0" layoutY="164.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa//central.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="664.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole0.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="564.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="464.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole2.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="364.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="264.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole4.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="164.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole5.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="14.0" layoutY="664.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/Pole6.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="564.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole7.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="464.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole8.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="364.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole9.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="264.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole10.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="164.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole11.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole12.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="164.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole13.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="264.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole14.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="364.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole15.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="464.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole16.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="564.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole17.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="664.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole18.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="664.0" layoutY="164.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole19.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="664.0" layoutY="264.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole20.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="664.0" layoutY="364.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole21.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="664.0" layoutY="464.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole22.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="150.0" layoutX="664.0" layoutY="564.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../polaa/pole23.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="rzutK" layoutX="950.0" layoutY="550.0" mnemonicParsing="false" onAction="#ruchgracza" prefHeight="50.0" prefWidth="150.0" text="Rzuć kostką" />
+      <Button fx:id="kup" disable="true" layoutX="950.0" layoutY="625.0" mnemonicParsing="false" onAction="#kup" prefHeight="50.0" prefWidth="150.0" text="Kup" />
+      <Button fx:id="koniectury" disable="true" layoutX="950.0" layoutY="700.0" mnemonicParsing="false" onAction="#ruchai" prefHeight="50.0" prefWidth="150.0" text="Koniec tury, ruch przeciwnika" textAlignment="CENTER" wrapText="true" />
+      <Circle fx:id="pion1" fill="DODGERBLUE" layoutX="714.0" layoutY="715.0" radius="15.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="pion2" fill="#ff1f1f" layoutX="700.0" layoutY="715.0" radius="15.0" stroke="BLACK" strokeType="INSIDE" />
+      <Label fx:id="tpole" layoutX="950.0" layoutY="100.0" text="Pole: ">
+         <font>
+            <Font size="15.0" />
+         </font></Label>
+      <Label fx:id="tcena" layoutX="950.0" layoutY="140.0" text="Cena: ">
+         <font>
+            <Font size="15.0" />
+         </font></Label>
+      <Label fx:id="twlasciciel" layoutX="950.0" layoutY="120.0" text="Właściciel:">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="tczynsz" layoutX="950.0" layoutY="160.0" text="Czynsz:">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="950.0" layoutY="347.0" text="Stan konta:">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="stankonta" layoutX="950.0" layoutY="372.0" text="2000$">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="950.0" layoutY="415.0" text="Stan konta przeciwnika:">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="stanKontaAI" layoutX="950.0" layoutY="440.0" text="2000$">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="wynikRzutu" layoutX="950.0" layoutY="502.0" text="Wynik rzutu: ">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

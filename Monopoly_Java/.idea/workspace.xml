@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Monopolyjava$Main.coverage" NAME="Main Coverage Results" MODIFIED="1527947962633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plansza.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Plansza.fxml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file leaf-file-name="UMLdiagram.uml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UML/UMLdiagram.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="0.0" y="0.0">sample.Pole</node>
+                <node x="0.0" y="413.0">sample.Main</node>
+                <node x="244.0" y="229.0">sample.Dialogs</node>
+                <node x="257.0" y="0.0">sample.Gracz</node>
+                <node x="0.0" y="229.0">sample.PlanszaController</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-87.5" y="220.0" />
+              <SelectedNodes>
+                <node>sample.Pole</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gracz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+              <folding>
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlanszaController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dialogs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Dialogs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pole.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1070#1071#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@../../polaa</find>
+      <find>polaa</find>
+      <find>/src/</find>
+      <find>@../../</find>
+      <find>/polaa</find>
+      <find>twlascicel</find>
+      <find>procesruchai</find>
+      <find>500</find>
+      <find>250</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/src/polaa</replace>
+      <replace>src/polaa</replace>
+      <replace>/</replace>
+      <replace>@../polaa</replace>
+      <replace>twlasciciel</replace>
+      <replace>procesRuchAi</replace>
+      <replace>250</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/aa.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Dzialka.java" />
+        <option value="$PROJECT_DIR$/src/sample/Pole.java" />
+        <option value="$PROJECT_DIR$/src/sample/Gracz.java" />
+        <option value="$PROJECT_DIR$/src/sample/Dialogs.java" />
+        <option value="$PROJECT_DIR$/src/sample/Plansza.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/PlanszaController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Monopoly_v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monopoly_v5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monopoly_v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monopoly_v5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monopoly_v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monopoly_v5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monopoly_v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monopoly_v5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UML" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kuba\Desktop\Monopolyjava\src" />
+      <recent name="C:\Users\Kuba\Desktop\Monopolyjava" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Monopolyjava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1526902918393" duration="6513000" />
+      <workItem from="1527939171617" duration="4847000" />
+      <workItem from="1527949399748" duration="9639000" />
+      <workItem from="1527960100718" duration="172000" />
+      <workItem from="1527960793997" duration="311000" />
+      <workItem from="1527961147665" duration="1593000" />
+      <workItem from="1528104654849" duration="67000" />
+      <workItem from="1528108693848" duration="390000" />
+      <workItem from="1528130079797" duration="7996000" />
+      <workItem from="1528144924303" duration="2744000" />
+      <workItem from="1528190397807" duration="543000" />
+      <workItem from="1528191428998" duration="5626000" />
+      <workItem from="1528202211846" duration="2058000" />
+      <workItem from="1528233474638" duration="594000" />
+      <workItem from="1528234167462" duration="295000" />
+      <workItem from="1528234931547" duration="4411000" />
+      <workItem from="1528272683647" duration="3424000" />
+      <workItem from="1528658059331" duration="571000" />
+      <workItem from="1528658669242" duration="906000" />
+      <workItem from="1528662570914" duration="1746000" />
+      <workItem from="1592774347612" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56089000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="simpleUML" order="2" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.19673914" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26482758" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32934782" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.123697914" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29793105" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
+      <window_info anchor="bottom" id="Duplicates" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info anchor="bottom" id="Profiler" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Duplicates" order="14" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.066206895" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.19724138" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.10872396" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="49" column="69" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="78" column="61" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="78" column="61" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="78" column="61" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="78" column="61" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="78" column="61" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/monopolyjava/sample/controller/SampleController.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/javafx.graphics/javafx/application/Application.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/aa.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Dzialka.java" />
+    <entry file="uml://MODULES/mdl-Monopolyjava">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-Monopolyjava</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-Monopolyjava</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="78.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/sample">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sample</OriginalElement>
+          <nodes>
+            <node x="117.0" y="73.0">sample.Gracz</node>
+            <node x="0.0" y="0.0">sample.PlanszaController</node>
+            <node x="0.0" y="148.0">sample.Main</node>
+            <node x="119.0" y="148.0">sample.Pole</node>
+            <node x="0.0" y="74.0">sample.Dialogs</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-362.0" y="-8.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/sample.PlanszaController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sample.PlanszaController</OriginalElement>
+          <nodes>
+            <node x="" y="">sample.PlanszaController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="36.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Plansza.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UML/UMLdiagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="0.0">sample.Pole</node>
+            <node x="0.0" y="413.0">sample.Main</node>
+            <node x="244.0" y="229.0">sample.Dialogs</node>
+            <node x="257.0" y="0.0">sample.Gracz</node>
+            <node x="0.0" y="229.0">sample.PlanszaController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-87.5" y="220.0" />
+          <SelectedNodes>
+            <node>sample.Pole</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Pole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Gracz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Dialogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/PlanszaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Monopolyjava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

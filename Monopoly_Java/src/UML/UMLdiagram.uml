@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">sample.Pole</node>
+    <node x="101.5" y="433.0">sample.Main</node>
+    <node x="463.0" y="55.5">sample.Dialogs</node>
+    <node x="86.0" y="244.0">sample.PlanszaController</node>
+    <node x="232.0" y="22.0">sample.Gracz</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.Main" target="sample.PlanszaController">
+      <point x="0.0" y="-36.5" />
+      <point x="0.0" y="69.5" />
+    </edge>
+    <edge source="sample.PlanszaController" target="sample.Dialogs">
+      <point x="85.28571428571428" y="-69.5" />
+      <point x="270.7857142857143" y="224.0" />
+      <point x="577.0" y="224.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="sample.PlanszaController" target="sample.Gracz">
+      <point x="56.85714285714283" y="-69.5" />
+      <point x="242.35714285714283" y="214.0" />
+      <point x="390.25" y="214.0" />
+      <point x="52.75" y="70.0" />
+    </edge>
+    <edge source="sample.PlanszaController" target="sample.Pole">
+      <point x="-56.85714285714286" y="-69.5" />
+      <point x="128.64285714285714" y="214.0" />
+      <point x="79.5" y="214.0" />
+      <point x="-26.5" y="92.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="347.0" y="316.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
