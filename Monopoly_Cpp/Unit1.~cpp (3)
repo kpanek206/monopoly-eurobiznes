@@ -1,0 +1,64 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TP1 *P1;
+int lok1=0;
+
+//---------------------------------------------------------------------------
+__fastcall TP1::TP1(TComponent* Owner)
+        : TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TP1::Button3Click(TObject *Sender)
+{
+
+        int rez=2;
+        //rez=rand()%11+2;
+        Label1->Caption = rez;
+        lok1+=rez;
+
+        //cz[lok1]->BringToFront();
+
+        Button3->Cursor=crDefault;
+        Button1->Cursor=crHandPoint;
+        Button2->Cursor=crHandPoint;
+        Button3->Enabled=false;
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TP1::Button1Click(TObject *Sender)
+{
+        Button3->Cursor=crHandPoint;
+        Button1->Cursor=crDefault;
+        Button2->Cursor=crDefault;
+
+        Button3->Enabled=true;
+        Button2->Enabled=true;
+
+}
+//---------------------------------------------------------------------------
+
+
+void __fastcall TP1::Button2Click(TObject *Sender)
+{
+        Button2->Cursor=crDefault;
+
+        Button2->Enabled=false;
+}
+//---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
